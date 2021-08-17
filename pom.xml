@@ -70,7 +70,7 @@
                         </goals>
                         <configuration>
                             <greeting>custom greeting2</greeting>
-                            <myBoolean>true</myBoolean>
+                            <myBoolean>false</myBoolean>
                             <myInteger>2</myInteger>
                         </configuration>
                     </execution>
